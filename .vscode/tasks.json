@@ -1,0 +1,11 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "taskName": "build",
+      "command": "g++",
+      "args": ["main.cpp", "-o", "out/main.out"],
+      "showOutput": "always"
+    }
+  ]
+}
